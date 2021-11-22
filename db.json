@@ -1,0 +1,14 @@
+{
+  "personas": [
+    {
+      "autor": "marian",
+      "domicilio": "almagro",
+      "id": 1
+    },
+    {
+      "autor": "laura",
+      "domicilio": "once",
+      "id": 2
+    }
+  ]
+}
